@@ -1,0 +1,24 @@
+C:\Users\Enmanuel Marty B\Documents\Intec\Proyecto Final\Proyecto Final\Proyecto Final\bin\Debug\Proyecto Final.exe.config
+C:\Users\Enmanuel Marty B\Documents\Intec\Proyecto Final\Proyecto Final\Proyecto Final\bin\Debug\Proyecto Final.exe
+C:\Users\Enmanuel Marty B\Documents\Intec\Proyecto Final\Proyecto Final\Proyecto Final\bin\Debug\Proyecto Final.pdb
+C:\Users\Enmanuel Marty B\Documents\Intec\Proyecto Final\Proyecto Final\Proyecto Final\obj\Debug\Proyecto Final.csproj.AssemblyReference.cache
+C:\Users\Enmanuel Marty B\Documents\Intec\Proyecto Final\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.Properties.Resources.resources
+C:\Users\Enmanuel Marty B\Documents\Intec\Proyecto Final\Proyecto Final\Proyecto Final\obj\Debug\Proyecto Final.csproj.GenerateResource.cache
+C:\Users\Enmanuel Marty B\Documents\Intec\Proyecto Final\Proyecto Final\Proyecto Final\obj\Debug\Proyecto Final.csproj.CoreCompileInputs.cache
+C:\Users\Enmanuel Marty B\Documents\Intec\Proyecto Final\Proyecto Final\Proyecto Final\obj\Debug\Proyecto Final.exe
+C:\Users\Enmanuel Marty B\Documents\Intec\Proyecto Final\Proyecto Final\Proyecto Final\obj\Debug\Proyecto Final.pdb
+C:\Users\Enmanuel Marty B\Documents\Intec\Proyecto Final\Proyecto Final\Proyecto Final\bin\Debug\EntityFramework.dll
+C:\Users\Enmanuel Marty B\Documents\Intec\Proyecto Final\Proyecto Final\Proyecto Final\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Enmanuel Marty B\Documents\Intec\Proyecto Final\Proyecto Final\Proyecto Final\bin\Debug\System.Data.SQLite.dll
+C:\Users\Enmanuel Marty B\Documents\Intec\Proyecto Final\Proyecto Final\Proyecto Final\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Enmanuel Marty B\Documents\Intec\Proyecto Final\Proyecto Final\Proyecto Final\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Enmanuel Marty B\Documents\Intec\Proyecto Final\Proyecto Final\Proyecto Final\bin\Debug\EntityFramework.xml
+C:\Users\Enmanuel Marty B\Documents\Intec\Proyecto Final\Proyecto Final\Proyecto Final\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Enmanuel Marty B\Documents\Intec\Proyecto Final\Proyecto Final\Proyecto Final\bin\Debug\System.Data.SQLite.xml
+C:\Users\Enmanuel Marty B\Documents\Intec\Proyecto Final\Proyecto Final\Proyecto Final\obj\Debug\Proyecto.334F53BF.Up2Date
+C:\Users\Enmanuel Marty B\Documents\Intec\Proyecto Final\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.MDIParent1.resources
+C:\Users\Enmanuel Marty B\Documents\Intec\Proyecto Final\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.Form1.resources
+C:\Users\Enmanuel Marty B\Documents\Intec\Proyecto Final\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.Form3.resources
+C:\Users\Enmanuel Marty B\Documents\Intec\Proyecto Final\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.Proveedor.resources
+C:\Users\Enmanuel Marty B\Documents\Intec\Proyecto Final\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.Consultas.resources
+C:\Users\Enmanuel Marty B\Documents\Intec\Proyecto Final\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.Consulta_Avanzada.resources
